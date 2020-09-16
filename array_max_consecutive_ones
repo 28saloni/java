@@ -14,3 +14,4 @@ class Solution {
         return max;
     }
 }
+// this code took 4 ms to execute. If you have a better approach do share. :)
